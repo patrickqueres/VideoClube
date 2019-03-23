@@ -1,0 +1,7 @@
+<parametros>
+  <LOCALBANCO>localhost</LOCALBANCO>
+  <USUARIO>videoclub</USUARIO>
+  <SENHA>video</SENHA>
+  <NOMEBANCO>XE</NOMEBANCO>
+  <PORTABANCO>1521</PORTABANCO>
+</parametros>
